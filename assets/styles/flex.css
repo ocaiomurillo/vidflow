@@ -1,0 +1,14 @@
+/* Header -> Navegação*/
+
+.nav__container{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 25px;
+};
+
+.menu__container{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
